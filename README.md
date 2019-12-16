@@ -1,4 +1,4 @@
-# bunny
+# minion_flare
 
 A new Flutter application.
 
